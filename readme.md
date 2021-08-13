@@ -1,6 +1,6 @@
 <h1> Códigos Usados: </h1>
 
-git ini 
+git init 
 
 git add
 
